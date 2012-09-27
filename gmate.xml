@@ -1,0 +1,31 @@
+<style-scheme id="gmate" _name="Gmate" version="1.0">
+<author>Cyriaque 'Cisoun' Skrapits</author>
+<_description>Another almost TextMate-like scheme.</_description>
+<style name="line-numbers"/>
+<style name="text" foreground="#FFFFFF" background="#212121"/>
+<style name="selection" background="#545454"/>
+<style name="selection-unfocused"/>
+<style name="cursor"/>
+<style name="secondary-cursor"/>
+<style name="current-line" background="#3A3A3A"/>
+<style name="bracket-match" foreground="#FF0045"/>
+<style name="bracket-mismatch" foreground="#FF0045"/>
+<style name="css:decimal" foreground="#9459F2"/>
+<style name="css:dimension" foreground="#8BC62F"/>
+<style name="css:known-property-values" foreground="#FF0045"/>
+<style name="css:string" foreground="#297BC4"/>
+<style name="def:character" foreground="#FFFFFF"/>
+<style name="def:comment" foreground="#545454" italic="True"/>
+<style name="def:function" foreground="#FFFFFF"/>
+<style name="def:identifier" foreground="#999999" bold="True"/>
+<style name="def:keyword" bold="True"/>
+<style name="def:number" foreground="#9459F2"/>
+<style name="def:operator" foreground="#FFFFFF"/>
+<style name="def:string" foreground="#297BC4"/>
+<style name="html:attrib-name" foreground="#66CCFF"/>
+<style name="html:tag" foreground="#946C4B"/>
+<style name="php:identifier" foreground="#FFFFFF" bold="True"/>
+<style name="php:keyword" foreground="#E62D17"/>
+<style name="php:operator" foreground="#FFFFFF"/>
+<style name="php:type" foreground="#946C4B"/>
+</style-scheme>

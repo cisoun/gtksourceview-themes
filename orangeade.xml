@@ -1,0 +1,53 @@
+<style-scheme id="orangeade" _name="Orangeade" version="1.0">
+<author>Cyriaque 'Cisoun' Skrapits</author>
+<_description>Orange theme!!</_description>
+<style name="line-numbers" foreground="#E5DDCE" background="#191714" bold="True"/>
+<style name="text" foreground="#E5DDCE" background="#332D28"/>
+<style name="selection" foreground="#332E28" background="#E5DDCE"/>
+<style name="selection-unfocused" foreground="#332E28" background="#CCBCA3"/>
+<style name="cursor"/>
+<style name="secondary-cursor"/>
+<style name="current-line" foreground="#E5DDCE" background="#4C453C"/>
+<style name="bracket-match"/>
+<style name="bracket-mismatch"/>
+<style name="right-margin"/>
+<style name="def:base-n-integer"/>
+<style name="def:boolean"/>
+<style name="def:builtin"/>
+<style name="def:character"/>
+<style name="def:comment" foreground="#B2996B" italic="True"/>
+<style name="def:complex"/>
+<style name="def:constant"/>
+<style name="def:decimal" foreground="#FFBA33" bold="True"/>
+<style name="def:doc-comment"/>
+<style name="def:doc-comment-element"/>
+<style name="def:error" underline="True"/>
+<style name="def:floating-point"/>
+<style name="def:function" foreground="#FF6A00" bold="True" underline="True"/>
+<style name="def:identifier" foreground="#FFAA00" bold="True"/>
+<style name="def:keyword" foreground="#FF6A00" bold="True"/>
+<style name="def:note" foreground="#FF2A00" bold="True" italic="True"/>
+<style name="def:number" foreground="#FFFFFF" bold="True"/>
+<style name="def:operator"/>
+<style name="def:preprocessor" foreground="#00BFFF"/>
+<style name="def:reserved"/>
+<style name="def:shebang"/>
+<style name="def:special-char"/>
+<style name="def:special-constant"/>
+<style name="def:statement"/>
+<style name="def:string" foreground="#FFFFFF" bold="True" italic="True"/>
+<style name="def:type" foreground="#FF3F00" bold="True"/>
+<style name="def:underlined"/>
+<style name="sh:comment" foreground="#B2996B" italic="True"/>
+<style name="sh:common-command" foreground="#B2996B" italic="True"/>
+<style name="sh:function" foreground="#FF6A00" bold="True"/>
+<style name="sh:here-doc-bound"/>
+<style name="sh:keyword" foreground="#FF3F00" bold="True"/>
+<style name="sh:others" foreground="#FFFFFF"/>
+<style name="sh:shebang"/>
+<style name="sh:string" foreground="#FFFFFF" italic="True"/>
+<style name="sh:subshell" foreground="#00BFFF"/>
+<style name="sh:variable" foreground="#FFBA33" bold="True"/>
+<style name="sh:variable-definition" foreground="#FFBA33" bold="True"/>
+<style name="xml:comment" foreground="#B2996B" italic="True"/>
+</style-scheme>

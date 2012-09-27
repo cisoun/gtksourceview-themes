@@ -1,0 +1,36 @@
+<style-scheme id="gluesque" _name="Gluesque" version="1.0">
+<author>Cyriaque 'Cisoun' Skrapits</author>
+<_description>Dark theme with cool and flashy colors.</_description>
+<style name="line-numbers" foreground="#A6A6A6" background="#141414"/>
+<style name="text" foreground="#F8F8F8" background="#141414"/>
+<style name="cursor" foreground="#F8F8F8"/>
+<style name="current-line" background="#3F3C40"/>
+<style name="bracket-match" background="#4F94CD"/>
+<style name="bracket-mismatch" background="#002F29" bold="True"/>
+<style name="c:preprocessor"/>
+<style name="def:boolean" foreground="#CCFF00"/>
+<style name="def:builtin" foreground="#0099FF" bold="True"/>
+<style name="def:comment" foreground="#665F57" italic="True"/>
+<style name="def:constant" foreground="#7587A6"/>
+<style name="def:doc-comment-element" foreground="#4F94CD"/>
+<style name="def:error" foreground="#F8F8F8" background="#002F29" bold="True"/>
+<style name="def:floating-point" foreground="#CCFF00"/>
+<style name="def:identifier" foreground="#7587A6"/>
+<style name="def:keyword" foreground="#0099FF" bold="True"/>
+<style name="def:note" foreground="#F9EE98" bold="True"/>
+<style name="def:number" foreground="#CCFF00"/>
+<style name="def:preprocessor" foreground="#A6A6A6"/>
+<style name="def:shebang" foreground="#665F57" italic="True"/>
+<style name="def:special-char" foreground="#7587A6"/>
+<style name="def:special-constant" foreground="#0099FF" bold="True"/>
+<style name="def:statement" foreground="#0099FF"/>
+<style name="def:string" foreground="#CCFF00"/>
+<style name="def:type" foreground="#FF0077"/>
+<style name="diff:ignore" foreground="#888888"/>
+<style name="ruby:module-handler" foreground="#0099FF"/>
+<style name="ruby:regex" foreground="#E9C062"/>
+<style name="ruby:symbol" foreground="#CCFF00"/>
+<style name="sh:others"/>
+<style name="xml:attribute-name" foreground="#0099FF"/>
+<style name="xml:element-name" foreground="#7587A6"/>
+</style-scheme>
