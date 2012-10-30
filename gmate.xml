@@ -20,18 +20,23 @@
 <style name="css:dimension" foreground="#8BC62F"/>
 <style name="css:known-property-values" foreground="#FF0045"/>
 <style name="css:string" foreground="#297BC4"/>
+<style name="def:builtin" foreground="#FF0045"/>
 <style name="def:character" foreground="#FFFFFF"/>
-<style name="def:comment" foreground="#545454" italic="True"/>
+<style name="def:comment" foreground="#666666" italic="True"/>
 <style name="def:function" foreground="#FFFFFF"/>
 <style name="def:identifier" foreground="#999999" bold="True"/>
 <style name="def:keyword" bold="True"/>
 <style name="def:number" foreground="#9459F2"/>
 <style name="def:operator" foreground="#FFFFFF"/>
-<style name="def:string" foreground="#297BC4"/>
+<style name="def:special-constant" foreground="#FF0045"/>
+<style name="def:string" foreground="#297BC4" italic="True"/>
 <style name="html:attrib-name" foreground="#66CCFF"/>
 <style name="html:tag" foreground="#946C4B"/>
 <style name="php:identifier" foreground="#FFFFFF" bold="True"/>
 <style name="php:keyword" foreground="#E62D17"/>
 <style name="php:operator" foreground="#FFFFFF"/>
 <style name="php:type" foreground="#946C4B"/>
+<style name="python:boolean" foreground="#66CCFF"/>
+<style name="python:keyword" foreground="#E62D17"/>
+<style name="python:module-handler" foreground="#8BC62F"/>
 </style-scheme>
